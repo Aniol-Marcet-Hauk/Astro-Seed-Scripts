@@ -16,9 +16,6 @@ DISCLAIMER: This personal project was started a long time ago, some scripts wher
 Page: 
 Demo:
 
-License
--------
-- Add a license file (e.g., MIT) or state that the scripts are proprietary.
 
 Checklist (quick actions to finish this README)
 ---------------------------------------------
