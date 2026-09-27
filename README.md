@@ -12,11 +12,12 @@ Unfortunately I can't share the entire project because of various dependencies a
 Demo: https://store.steampowered.com/app/5041420/Astro_Seed_Demo/
 
 ## Structure
-- __Managers__: Singletons that manage the general game state
+
 - __aplayer__: the player scripts (hand movement, grabbing, etc)
 - __astar__: astar pathfinding code
-- __balls__: the scripts for the rocks you can grab
+- __Managers__: Singletons that manage the general game state
 - __Save__: save file system
+- __balls__: the scripts for the rocks you can grab
 - __Sounds__
 - __UI and Menus__
 - __other items__: items you can interact with
